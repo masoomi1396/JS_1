@@ -1,7 +1,7 @@
 # JS_1
 This is my first JS project for training
 *😁 This is my first JS project which is created by me to train JavaScript*
-- [Demo Project](https://masoomi1396.github.io/FirstCssResponsiveTest/)
+- [Demo Project](https://masoomi1396.github.io/JS_1/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-07-18
 - 🤖 Technologies Used - Html , Css , Js
